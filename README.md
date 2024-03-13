@@ -34,11 +34,11 @@
 
 <a href="#" style="color: red;">INFO</a>
 
-*2024-Mar-13 11:39:44.914*	**GetDataFragment**	[INFO](#) '#0000ff' 
+*2024-Mar-13 11:39:44.914*	**GetDataFragment**	[INFO](#) :large_blue_circle:
 > Entered in listView onclick if condition
 
 
-*2024-Mar-13 11:39:44.914*	**GetDataFragment**	[DEBUG](#) '#ff0000' 
+*2024-Mar-13 11:39:44.914*	**GetDataFragment**	[DEBUG](#) :red_circle:
 > Entered in listView onclick if condition
 
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
