@@ -30,6 +30,11 @@
 
 <font color='#00FF00'>This text is red</font>
 
+<a href="#" style="color: blue;">INFO</a>
+
+<a href="#" style="color: red;">INFO</a>
+
+
 
 
 
