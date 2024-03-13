@@ -41,7 +41,7 @@
 *2024-Mar-13 11:39:44.914*	**GetDataFragment**	[DEBUG](#) '#ff0000' 
 > Entered in listView onclick if condition
 
-
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 
 
